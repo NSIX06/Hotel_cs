@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Hotel_cs.Interfaces
 {
-    public interface IRecepcionista
+    public interface IRecepcionista : IPessoa
     {
         void Atender_Telefone();
         void Ingles_Basico();

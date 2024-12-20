@@ -5,7 +5,7 @@ using System.Threading.Tasks;
 
 namespace Hotel_cs.Interfaces
 {
-    public interface IGerente : ICamareira, IRecepcionista
+    public interface IGerente : ICamareira, IRecepcionista, IPessoa
     {
         void Conhecer_Hotel();
     }

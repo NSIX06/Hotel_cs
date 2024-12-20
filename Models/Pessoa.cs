@@ -2,10 +2,11 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using Hotel_cs.Interfaces;
 
 namespace Hotel_cs.Models
 {
-    public abstract class Pessoa
+    public abstract class Pessoa  : IPessoa
     {
         public string Nome {get; set;}
         public string CPF {get; set;}
@@ -23,6 +24,10 @@ namespace Hotel_cs.Models
             Telefone = telefone;
         }
 
-        public abstract void Se_Apresentar();
+        public virtual void Se_Apresentar()
+        {
+            Console.WriteLine("Sou a pessoa " + Nome);
+            Console.WriteLine();
+        }
     }
 }
