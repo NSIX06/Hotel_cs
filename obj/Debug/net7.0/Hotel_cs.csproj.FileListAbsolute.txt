@@ -1,0 +1,14 @@
+C:\ferramentas\Weberson\Hotel_cs\bin\Debug\net7.0\Hotel_cs.exe
+C:\ferramentas\Weberson\Hotel_cs\bin\Debug\net7.0\Hotel_cs.deps.json
+C:\ferramentas\Weberson\Hotel_cs\bin\Debug\net7.0\Hotel_cs.runtimeconfig.json
+C:\ferramentas\Weberson\Hotel_cs\bin\Debug\net7.0\Hotel_cs.dll
+C:\ferramentas\Weberson\Hotel_cs\bin\Debug\net7.0\Hotel_cs.pdb
+C:\ferramentas\Weberson\Hotel_cs\obj\Debug\net7.0\Hotel_cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\ferramentas\Weberson\Hotel_cs\obj\Debug\net7.0\Hotel_cs.AssemblyInfoInputs.cache
+C:\ferramentas\Weberson\Hotel_cs\obj\Debug\net7.0\Hotel_cs.AssemblyInfo.cs
+C:\ferramentas\Weberson\Hotel_cs\obj\Debug\net7.0\Hotel_cs.csproj.CoreCompileInputs.cache
+C:\ferramentas\Weberson\Hotel_cs\obj\Debug\net7.0\Hotel_cs.dll
+C:\ferramentas\Weberson\Hotel_cs\obj\Debug\net7.0\refint\Hotel_cs.dll
+C:\ferramentas\Weberson\Hotel_cs\obj\Debug\net7.0\Hotel_cs.pdb
+C:\ferramentas\Weberson\Hotel_cs\obj\Debug\net7.0\Hotel_cs.genruntimeconfig.cache
+C:\ferramentas\Weberson\Hotel_cs\obj\Debug\net7.0\ref\Hotel_cs.dll
